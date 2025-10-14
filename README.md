@@ -8,7 +8,7 @@
 - ☁️ Deployed on AWS EC2 with Docker containerization
 - 🚀 JSON REST API supporting multiple image formats
 
-## ✨Key Features
+## ✨ Key Features
 - **Real-Time Classification**: Fast image inference using pre-trained LibTorch models.
 - **REST API**: Simple HTTP endpoints for upload and prediction responses.
 - **Containerized Deployment**: Docker support for seamless cloud deployment.
@@ -23,14 +23,14 @@
 - AWS EC2
 - JSON
 
-## Setup & Running
+## 🚀 Setup & Running
 **Prerequisites:**
 - C++17 compatible compiler
 - LibTorch library
 - Docker
 - AWS account
   
-## Installation
+## 📦 Installation
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/yourproject.git
@@ -52,7 +52,7 @@
    ./image_classifier
    ```
 
-## Usage
+## 💡 Usage
 - The API runs on http://localhost:8080 by default.
 - Send POST requests to /predict with image files.
 - Receive JSON responses with classification results and confidence scores
